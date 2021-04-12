@@ -1,6 +1,5 @@
 # efinalmodv
-Evaluación final módulo V 
-Evaluacion curso front end: Hecho en Vuecli, subido sin la carpeta node_modules para ahorrar espacio. Requiere Vuex, Jest, VueRouter y BootstrapVue
+Evaluación final módulo V para curso front end: Hecho en Vuecli, subido sin la carpeta node_modules para ahorrar espacio. Requiere Vuex, Jest, VueRouter y BootstrapVue
 ## Project setup
 ```
 yarn install
