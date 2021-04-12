@@ -1,3 +1,24 @@
-# EvaluacionFinalModuloV
-Evaluacion final modulo V
-Evaluacion curso front end: Hecho en Vuecli, Pegar en el src Requiere Vuex, Router, Jest y BootstrapVue
+# efinalmodv
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
